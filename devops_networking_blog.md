@@ -84,7 +84,7 @@ Here are the protocols every DevOps engineer should know:
 
 ---
 
-## Task 3: AWS EC2 & Security Groups 🛡️
+## 3: AWS EC2 & Security Groups 🛡️
 
 ### What are Security Groups?
 Think of Security Groups as **virtual firewalls** for your EC2 instances. They control what traffic can come in (inbound) and go out (outbound).
