@@ -49,7 +49,7 @@ When you type `google.com` in your browser:
 
 ---
 
-## Task 2: Essential DevOps Protocols & Ports 🔌
+## 2: Essential DevOps Protocols & Ports 🔌
 
 Here are the protocols every DevOps engineer should know:
 
@@ -129,7 +129,7 @@ Load Balancer:
 
 ---
 
-## Task 4: Essential Networking Commands Cheat Sheet 🛠️
+## 4: Essential Networking Commands Cheat Sheet 🛠️
 
 Here are the networking commands every DevOps engineer should master:
 
