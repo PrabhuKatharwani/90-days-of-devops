@@ -202,6 +202,7 @@ dig google.com A
 ## Week 1 Summary & Next Steps 📋
 
 This week I learned:
+
 ✅ OSI and TCP/IP models and their real-world applications  
 ✅ Essential protocols and ports for DevOps workflows  
 ✅ AWS EC2 Security Groups for cloud security  
