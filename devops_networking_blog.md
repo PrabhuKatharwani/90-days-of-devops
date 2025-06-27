@@ -227,6 +227,6 @@ I'm documenting my entire 90-day DevOps journey! Follow along:
 
 ---
 
-*Day 7 of 90 Days DevOps Challenge complete! 🎉*
+*week 1 of 90 Days DevOps Challenge complete! 🎉*
 
 **#DevOps #90DaysOfDevOps #Networking #AWS #CloudSecurity #TechLearning #DevOpsCommunity #LearnInPublic #CloudComputing #TechCareer #DevOpsChallenge #NetworkingBasics #AWSLearning #DevOpsSkills #TechJourney #OpenSource #CloudNative #InfrastructureAsCode #SysAdmin #TechEducation**
