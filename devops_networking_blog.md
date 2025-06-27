@@ -29,7 +29,6 @@ The OSI model has 7 layers.
 | 3 | Network      | IP addresses, Routers       | Finds the best path to destination  |
 | 2 | Data Link    | Ethernet, WiFi              | Handles local network communication |
 | 1 | Physical     | Cables, WiFi signals        | The actual wires and signals        |
-![6262390676863961180](https://github.com/user-attachments/assets/369ce97f-d048-4e54-851b-d1f6338658e2)
 
 
 
