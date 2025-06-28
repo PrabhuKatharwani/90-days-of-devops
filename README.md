@@ -1,4 +1,4 @@
-# 90 Days of DevOps Challenge - 2025 Edition
+# 90 Days of DevOps
 
 ## About This Journey
 I'm documenting my DevOps learning journey over 90 days. Each week focuses on a specific topic, and I share detailed blog posts, practical exercises, and real-world examples.
